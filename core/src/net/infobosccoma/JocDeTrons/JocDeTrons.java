@@ -18,6 +18,7 @@ import net.infobosccoma.JocDeTrons.Screens.SplashScreen;
 public class JocDeTrons extends Game {
 
 	//Prova de commit Jordi Escobar
+	//prova mergee 2
 
 	//<editor-fold desc="Constants">
 	/**
