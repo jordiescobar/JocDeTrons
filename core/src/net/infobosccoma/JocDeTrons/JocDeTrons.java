@@ -17,6 +17,8 @@ import net.infobosccoma.JocDeTrons.Screens.SplashScreen;
  */
 public class JocDeTrons extends Game {
 
+	//Prova de commit Jordi Escobar
+
 	//<editor-fold desc="Constants">
 	/**
 	 * Box2D treballa millor amb valors petits. NO s'han d'utilitzar unitats de
