@@ -50,7 +50,6 @@ import java.util.Iterator;
  */
 public class MapBodyManager {
 
-	//Prova jordibranca nova
 	private final short CATEGORIA_ESCENA = 0x0016;
 	private Logger logger;
 	private World world;
