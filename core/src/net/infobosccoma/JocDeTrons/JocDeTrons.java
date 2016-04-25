@@ -20,6 +20,12 @@ public class JocDeTrons extends Game {
 	//Prova de commit Jordi Escobar
 	//prova mergee 2
 
+
+
+	// eiiiii soc aki
+
+
+
 	//<editor-fold desc="Constants">
 	/**
 	 * Box2D treballa millor amb valors petits. NO s'han d'utilitzar unitats de
