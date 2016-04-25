@@ -1,7 +1,5 @@
 package net.infobosccoma.JocDeTrons;
 
-import java.util.Iterator;
-
 import com.badlogic.gdx.files.FileHandle;
 import com.badlogic.gdx.maps.Map;
 import com.badlogic.gdx.maps.MapLayer;
@@ -27,9 +25,11 @@ import com.badlogic.gdx.physics.box2d.World;
 import com.badlogic.gdx.utils.Array;
 import com.badlogic.gdx.utils.JsonReader;
 import com.badlogic.gdx.utils.JsonValue;
+import com.badlogic.gdx.utils.JsonValue.JsonIterator;
 import com.badlogic.gdx.utils.Logger;
 import com.badlogic.gdx.utils.ObjectMap;
-import com.badlogic.gdx.utils.JsonValue.JsonIterator;
+
+import java.util.Iterator;
 
 /**
  * @author David Saltares Márquez david.saltares at gmail.com
@@ -49,6 +49,8 @@ import com.badlogic.gdx.utils.JsonValue.JsonIterator;
  * 
  */
 public class MapBodyManager {
+
+	//Prova jordibranca nova
 	private final short CATEGORIA_ESCENA = 0x0016;
 	private Logger logger;
 	private World world;
